@@ -99,7 +99,7 @@ Contributions are welcome! If you’d like to collaborate or improve any of the 
 To contribute:
 
 Fork this repository by clicking the "Fork" button on this page.
-    Clone your fork: git clone https://github.com/your-username/nlp-specialization.git
+    Clone your fork: git clone https://github.com/Abiton198/deep_learning_specialization_stanford
     
 Create a new branch for your feature:
     git checkout -b feature-branch
